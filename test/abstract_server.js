@@ -1,5 +1,5 @@
 var steed = require("steed");
-var ascoltatori = require("ascoltatori");
+var ascoltatori = require("vocovo-patched-ascoltatori");
 
 module.exports = function(moscaSettings, createConnection) {
   var instance;

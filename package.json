@@ -1,6 +1,6 @@
 {
   "name": "vocovo-patched-mosca",
-  "version": "2.8.3-p1",
+  "version": "2.8.3-p2",
   "description": "MQTT broker as a module",
   "main": "index.js",
   "bin": {
